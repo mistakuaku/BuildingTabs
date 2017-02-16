@@ -1,0 +1,19 @@
+body{
+  font-family: sans-serif;
+}
+
+
+div.nav-tab {
+  background-color: rgb(200,200,200);
+  border-style: solid;
+}
+
+a.navigation:link {
+  text-decoration: none;
+  color: #330000;
+
+}
+
+div.nav-tab:hover {
+  background-color: rgb(128,128,128);
+}
